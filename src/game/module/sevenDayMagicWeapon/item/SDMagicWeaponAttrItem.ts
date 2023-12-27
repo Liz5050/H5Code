@@ -1,0 +1,4 @@
+class SDMagicWeaponAttrItem {
+	public constructor() {
+	}
+}

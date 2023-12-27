@@ -1,0 +1,3 @@
+class MagicArrayController extends ShapeBaseController {
+
+}

@@ -1,0 +1,4 @@
+enum AlertEnum {
+	Normal,
+	CheckBox,
+}

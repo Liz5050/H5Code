@@ -1,0 +1,4 @@
+class CreateRoleCache {
+	public constructor() {
+	}
+}

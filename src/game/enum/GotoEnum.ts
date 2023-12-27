@@ -1,0 +1,55 @@
+/**
+ * 跳转类型枚举
+ */
+enum GotoEnum {
+	Smelt,//装备熔炼
+	CopyMaterial,//材料副本
+	BossCountry,//野外boss
+	Area,//王者争霸
+	GodBoss,//神域boss
+	Encounter,//遭遇战
+	TrainNobility,//爵位
+	Lottery,//寻宝
+	LotteryAncient,//混元寻宝
+	AncientSmelt,//天机装备；合成
+	VIP10,//跳到VIP10
+	VIP9,//跳到VIP9
+	VIP8,//跳到VIP8
+	VIP7,//跳到VIP7
+	VIP6,//跳到VIP6
+	VIP5,//跳到VIP5
+	VIP4,//跳到VIP4
+	VIP3,//跳到VIP3
+	VIP2,//跳到VIP2
+	VIP1,//跳到VIP1
+	Mining,//挖矿
+	SecretBoss,//秘境boss
+	CheckPoint,//关卡
+	MagicWeaponCopy,//法宝副本
+	CopySword, //守卫神剑
+	RechargeDay, //每日充值
+	Team2,//跨服组队
+	MgRecharge,//累计活动 
+	ToplistActiveOpen,//开服冲榜
+	ShopMystery,//神秘商店
+	ShopProp,//道具商店
+	GamePlayExam,//玩法答题
+	GamePlayBattleField,//阵地争夺
+	GamePlayCampBattle,//血战五洲
+	GamePlayCrossStair,//青云之巅
+	SignIn,//签到
+	VIPGift10,//跳到VIP10礼包
+	VIPGift9,//跳到VIP9礼包
+	VIPGift8,//跳到VIP8礼包
+	VIPGift7,//跳到VIP7礼包
+	VIPGift6,//跳到VIP6礼包
+	VIPGift5,//跳到VIP5礼包
+	VIPGift4,//跳到VIP4礼包
+	VIPGift3,//跳到VIP3礼包
+	RechargeDayReturn,//天天返利
+	LoginReward,//登陆奖励
+	GuildBattle,//仙盟争霸
+	Peak,//巅峰竞技
+	GuildDefend,//守护仙盟
+	PrivilegeCard,//特权月卡
+}

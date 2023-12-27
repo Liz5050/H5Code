@@ -1,0 +1,15 @@
+enum AIType {
+	Move,
+	Route,
+	MoveToNpc,
+	ClickEntity,
+	Collect,
+	AutoFight,
+	RouteBossHook,
+	PickUp,
+	MoveToMonster,
+	MoveToPassPoint,
+	MoveToMiner,
+	MoveToExpPos,
+	MoveToDrop,
+}

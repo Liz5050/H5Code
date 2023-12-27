@@ -1,0 +1,3 @@
+class SwordPoolController extends ShapeBaseController {
+
+}

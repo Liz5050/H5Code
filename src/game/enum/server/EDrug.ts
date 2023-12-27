@@ -1,0 +1,21 @@
+enum EDrug
+{
+    EDrugLife = 0,
+    EDrugMana = 1,
+    EDrugBuff = 2,
+    EDrugExp = 3,
+    EDrugMoreExp = 4,
+    EDrugPetEnergy = 5,
+    EDrugPetLifeSpan = 6,
+    EDrugPetExp = 7,
+    EDrugPetMoreExp = 8,
+    EDrugChangeShape = 9,
+    EDrugGuildFlameWine = 10,
+    EDrugPetLife = 11,
+    EDrugLifeBag = 13,
+    EDrugManaBag = 14,
+    EDrugLifePetBag = 15,
+    EDrugMakeFunProp = 16,
+    EDrugMountExpDrug = 17,
+    EDrugDynamicExp = 18,
+}

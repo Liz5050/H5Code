@@ -1,0 +1,31 @@
+enum ETaskGroup
+{
+    ETaskGroupMain = 1,
+    ETaskGroupBranch = 2,
+    ETaskGroupLoopBook = 3,
+    ETaskGroupTransport = 4,
+    ETaskGroupGuild = 5,
+    ETaskGroupRunBusiness = 6,
+    ETaskGroupKillEvil = 7,
+    ETaskGroupSchool = 8,
+    ETaskGroupCycle = 9,
+    ETaskGroupTreasure = 10,
+    ETaskGroupCopy = 11,
+    ETaskGroupActive = 12,
+    ETaskGroupFairyland = 13,
+    ETaskGroupDaily = 14,
+    ETaskGroupCampTreasure = 15,
+    ETaskGroupWeakCamp = 16,
+    ETaskGroupChangeCareer = 17,
+    ETaskGroupLove = 18,
+    ETaskGroupSecondCareer = 19,
+    ETaskGroupDramaCopy = 20,
+    ETaskGroupCombat = 21,
+    ETaskGroupExploreSecret = 22,
+    ETaskGroupMgRing = 23,
+    ETaskGroupMgGuild = 24,
+    ETaskGroupGuide = 25,
+    ETaskGroupTimeLimited = 26,
+    ETaskGrouptalent = 27,	//天赋任务
+    ETaskGroupMax = 28
+}

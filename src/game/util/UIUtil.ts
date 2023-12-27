@@ -1,0 +1,6 @@
+class UIUtil {
+	public constructor() {
+	}
+
+	
+}
